@@ -1,0 +1,18 @@
+h1 {color: firebrick;}
+#title {
+  text-align: center;
+}
+.sublist {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background-color: beige;
+  vertical-align: top;
+}
+.padded {
+  margin-right: 20px;
+}
+.subhead {
+  background-color: antiquewhite;
+  width: 660px;
+}
